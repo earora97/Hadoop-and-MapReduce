@@ -1,0 +1,6 @@
+balloonport 17.0
+closed 1211.0
+heliport 8707.0
+large_airport 554.0
+medium_airport 4511.0
+seaplane_base 895.0
